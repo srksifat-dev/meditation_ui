@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const textWhite = Color(0xffeeeeee);
+const deepBlue = Color(0xff06164c);
+const buttonBlue = Color(0xff505cf3);
+const darkerButtonBlue = Color(0xff566894);
+const lightRed = Color(0xfffc879a);
+const aquaBlue = Color(0xff9aa5c4);
+const orangeYellow1 = Color(0xfff0bd28);
+const orangeYellow2 = Color(0xfff1c746);
+const orangeYellow3 = Color(0xfff4cf65);
+const beige1 = Color(0xfffdbda1);
+const beige2 = Color(0xfffcaf90);
+const beige3 = Color(0xfff9a27b);
+const lightGreen1 = Color(0xff54e1b6);
+const lightGreen2 = Color(0xff36ddab);
+const lightGreen3 = Color(0xff11d79b);
+const blueViolet1 = Color(0xffaeb4fd);
+const blueViolet2 = Color(0xff9fa5fe);
+const blueViolet3 = Color(0xff8f98fd);
